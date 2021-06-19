@@ -1,3 +1,4 @@
 # PostgreSQL-Curso
-Curso de postgreSQL ofercido pela digital innovation One
+
+### Repositório dedicado ao curso de postgreSQL ofercido pela digital innovation One
 
