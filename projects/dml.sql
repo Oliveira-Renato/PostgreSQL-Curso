@@ -1,3 +1,4 @@
+-- valores inserts copiados do repositorio >>>https://github.com/drobcosta
 INSERT INTO banco (numero, nome) VALUES (654,'Banco A.J.Renner S.A.'::VARCHAR(50));
 INSERT INTO banco (numero, nome) VALUES (246,'Banco ABC Brasil S.A.'::VARCHAR(50));
 INSERT INTO banco (numero, nome) VALUES (25,'Banco Alfa S.A.'::VARCHAR(50));
